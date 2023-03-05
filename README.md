@@ -1,1 +1,4 @@
 # nasa-apod
+En este proyecto utilizaremos la API de la Nasa para obtener imágenes aleatorias de su fichero de **Imagenes del día**. Obtendremos 10 imágenes con sus datos asociados que mostraremos en formato "tarjeta" (card). Al hacer clic sobre la imagen, la veremos en toda su resolución. Si queremos, podemos marcar una imagen como favorita (la almacenará en LOCALSTORAGE). Podemos renovar la página y cargar 10 nuevas imágenes. La carga de imágenes se hará utilizando **lazy load** (las imágenes se cargan cuando se necesitan) para mejorar el rendimiento. La página será responsive
+# Recursos utilizados
+Aplicación que permite crear iconos SVG animados: (Loaf - Animated SVG Generator)[https://getloaf.io/]
